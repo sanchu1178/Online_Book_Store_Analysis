@@ -1,5 +1,6 @@
 📚 Online Bookstore SQL Project
-#📝 Project Overview
+
+📝 Project Overview
 This project is a SQL-based Online Bookstore that manages books, customers, and orders using relational database concepts. It includes data manipulation, retrieval, and analysis using SQL queries.
 
 📂 Dataset
